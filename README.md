@@ -12,8 +12,8 @@ Module to determine which credit card users are most likely to leave. A Python p
 
 ## Running Files
   1. Install all dependencies
-  '''
+  ```
   python -m pip install -r requirements_py3.8.txt
-  '''
+  ```
 
 
