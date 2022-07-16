@@ -7,7 +7,7 @@ Module to determine which credit card users are most likely to leave. A Python p
 
 ## Files and data description
 <p align="center">
-  <img src="/images/dir_tree.png" width="350" title="hover text">
+  <img src="/images/dir_tree.png" width="550" title="Project structure">
 </p>
 ## Running Files
 How do you run your files? What should happen when you run your files?
