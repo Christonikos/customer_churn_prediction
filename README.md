@@ -9,8 +9,11 @@ Module to determine which credit card users are most likely to leave. A Python p
 <p align="center">
   <img src="/images/dir_tree.png" width="550" title="Project structure">
 </p>
-## Running Files
-How do you run your files? What should happen when you run your files?
 
+## Running Files
+  1. Install all dependencies
+  '''
+  python -m pip install -r requirements_py3.8.txt
+  '''
 
 
