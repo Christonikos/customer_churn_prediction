@@ -15,5 +15,13 @@ Module to determine which credit card users are most likely to leave. A Python p
   ```
   python -m pip install -r requirements_py3.8.txt
   ```
+  2. Run the main analysis script
+  ```
+  python churn_main.py
+  ```
+  Two additional modules are called:
+    
+    * config.py --> The configuration file creates the paths and holds all globals recquired for the analysis. 
+    * plotting.py --> All plotting functions are stored in this module
 
 
