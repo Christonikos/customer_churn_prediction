@@ -1,6 +1,9 @@
-# Predict Customer Churn
+# Customer Churn Prediction
+"Predict Customer Churn: Leveraging W&B, MLflow, and Hydra for Enhanced Model Performance and Experiment Tracking" is a machine learning project focused on predicting customer attrition, helping businesses identify at-risk customers and implement effective retention strategies. This project emphasizes the importance of experiment tracking, reproducibility, and hyperparameter tuning in achieving optimal model performance.
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+The project utilizes Weights & Biases (W&B) for real-time monitoring of training metrics, enabling model performance visualization and comparison across different iterations. MLflow is employed for comprehensive experiment tracking, versioning, and model management, while Hydra simplifies configuration and hyperparameter tuning, streamlining the experimentation process.
+
+By leveraging these advanced tools, the project showcases best practices in customer churn prediction and model optimization. Developers and data scientists can learn how to effectively build, evaluate, and fine-tune their models while maintaining organization and transparency throughout the experimentation process. This ultimately results in improved model performance and better insights into customer behavior, empowering businesses to take targeted action to retain valuable customers.
 
 ## Project Description
 Module to determine which credit card users are most likely to leave. A Python package for a machine learning project that adheres to coding standards (PEP8) and engineering best practices for software implementation is part of the finished project (modular, documented, and tested). Additionally, the package can be run interactively or through a command-line interface (CLI).
